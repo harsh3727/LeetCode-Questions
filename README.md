@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harsh3727/LeetCode-Questions/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/harsh3727/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/harsh3727/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/harsh3727/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/harsh3727/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
